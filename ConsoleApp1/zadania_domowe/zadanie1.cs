@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace zadania_domowe
 {
     class zadanie1
